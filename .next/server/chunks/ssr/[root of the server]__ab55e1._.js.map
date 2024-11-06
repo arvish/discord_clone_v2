@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 15, "column": 0}, "map": {"version":3,"sources":["turbopack://[project]/src/app/convex-client-provider.tsx"],"sourcesContent":["\"use client\";\r\n\r\nimport { ConvexProvider, ConvexReactClient } from \"convex/react\";\r\n\r\nconst client = new ConvexReactClient(process.env.NEXT_PUBLIC_CONVEX_URL!);\r\n\r\nexport function ConvexClientProvider({\r\n  children,\r\n}: {\r\n  children: React.ReactNode;\r\n}) {\r\n  return <ConvexProvider client={client}>{children}</ConvexProvider>;\r\n}\r\n"],"names":[],"mappings":";;;;AAEA;AAAA;AAFA;;;AAIA,MAAM,SAAS,IAAI,mXAAA,CAAA,oBAAiB;AAE7B,SAAS,qBAAqB,EACnC,QAAQ,EAGT;IACC,qBAAO,ucAAC,mXAAA,CAAA,iBAAc;QAAC,QAAQ;kBAAS;;;;;;AAC1C"}},
+    {"offset": {"line": 35, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

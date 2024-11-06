@@ -1,0 +1,14 @@
+const CHUNK_PUBLIC_PATH = "server/app/(dashboard)/friends/page.js";
+const runtime = require("../../../chunks/ssr/[turbopack]_runtime.js");
+runtime.loadChunk("server/chunks/ssr/124e8_next_dist_a89768._.js");
+runtime.loadChunk("server/chunks/ssr/[root of the server]__adba9d._.js");
+runtime.loadChunk("server/chunks/ssr/node_modules__pnpm_c628a1._.js");
+runtime.loadChunk("server/chunks/ssr/[root of the server]__874f5c._.js");
+runtime.loadChunk("server/chunks/ssr/src_app_globals_b80590.css");
+runtime.loadChunk("server/chunks/ssr/3bd38_ezheaders_dist_index_mjs_1b5719._.js");
+runtime.loadChunk("server/chunks/ssr/node_modules__pnpm_71451f._.js");
+runtime.loadChunk("server/chunks/ssr/src_app_(dashboard)_layout_tsx_acc1f0._.js");
+runtime.loadChunk("server/chunks/ssr/_270aef._.js");
+runtime.loadChunk("server/chunks/ssr/src_app_(dashboard)_friends_page_tsx_a3eb1d._.js");
+runtime.getOrInstantiateRuntimeModule("[project]/.next-internal/server/app/(dashboard)/friends/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.2.0_next@15.0.2_react-dom@19.0.0-rc-02c0e824-20241028_react@19.0.0-rc-02c0e82_ge3lh3absj2brzrax3pfndyaau/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)", CHUNK_PUBLIC_PATH);
+module.exports = runtime.getOrInstantiateRuntimeModule("[project]/node_modules/.pnpm/next@15.0.2_react-dom@19.0.0-rc-02c0e824-20241028_react@19.0.0-rc-02c0e824-20241028__react@19.0.0-rc-02c0e824-20241028/node_modules/next/dist/esm/build/templates/app-page.js?page=/(dashboard)/friends/page { MODULE_0 => \"[project]/src/app/layout.tsx [app-rsc] (ecmascript, Next.js server component)\", MODULE_1 => \"[project]/node_modules/.pnpm/next@15.0.2_react-dom@19.0.0-rc-02c0e824-20241028_react@19.0.0-rc-02c0e824-20241028__react@19.0.0-rc-02c0e824-20241028/node_modules/next/dist/client/components/not-found-error.js [app-rsc] (ecmascript, Next.js server component)\", MODULE_2 => \"[project]/src/app/(dashboard)/layout.tsx [app-rsc] (ecmascript, Next.js server component)\", MODULE_3 => \"[project]/node_modules/.pnpm/next@15.0.2_react-dom@19.0.0-rc-02c0e824-20241028_react@19.0.0-rc-02c0e824-20241028__react@19.0.0-rc-02c0e824-20241028/node_modules/next/dist/client/components/not-found-error.js [app-rsc] (ecmascript, Next.js server component)\", MODULE_4 => \"[project]/src/app/(dashboard)/friends/page.tsx [app-rsc] (ecmascript, Next.js server component)\" } [app-rsc] (ecmascript)", CHUNK_PUBLIC_PATH).exports;

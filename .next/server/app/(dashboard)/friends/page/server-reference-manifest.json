@@ -1,0 +1,16 @@
+{
+  "node": {
+    "7fed1e3046484c48dac7d1083a4d2ada0139414218": {
+      "workers": {
+        "app/(dashboard)/friends/page": {
+          "moduleId": "[project]/.next-internal/server/app/(dashboard)/friends/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/.pnpm/@clerk+nextjs@6.2.0_next@15.0.2_react-dom@19.0.0-rc-02c0e824-20241028_react@19.0.0-rc-02c0e82_ge3lh3absj2brzrax3pfndyaau/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(dashboard)/friends/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}

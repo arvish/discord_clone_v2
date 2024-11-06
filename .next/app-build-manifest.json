@@ -1,0 +1,38 @@
+{
+  "pages": {
+    "/page": [
+      "static/chunks/src_app_globals_b80590.css",
+      "static/chunks/node_modules__pnpm_8d4b46._.js",
+      "static/chunks/src_app_8447dd._.js",
+      "static/chunks/src_app_layout_tsx_50009d._.js",
+      "static/chunks/002f1_convex_dist_esm_server_19b491._.js",
+      "static/chunks/_600cdb._.js",
+      "static/chunks/src_app_page_tsx_b82fd3._.js",
+      "static/chunks/124e8_next_dist_compiled_react-dom_afc931._.js",
+      "static/chunks/124e8_next_dist_compiled_e344ba._.js",
+      "static/chunks/124e8_next_dist_client_b0cb22._.js",
+      "static/chunks/124e8_next_dist_b4e3a6._.js",
+      "static/chunks/90823_@swc_helpers_cjs_6ab2e1._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_36bfcf._.js",
+      "static/chunks/_c4c472._.js",
+      "static/chunks/_73dfc9._.js"
+    ],
+    "/(dashboard)/friends/page": [
+      "static/chunks/src_app_globals_b80590.css",
+      "static/chunks/node_modules__pnpm_8d4b46._.js",
+      "static/chunks/src_app_8447dd._.js",
+      "static/chunks/src_app_layout_tsx_50009d._.js",
+      "static/chunks/_886d78._.js",
+      "static/chunks/node_modules__pnpm_a9047c._.js",
+      "static/chunks/src_app_(dashboard)_layout_tsx_b82fd3._.js",
+      "static/chunks/124e8_next_dist_compiled_react-dom_afc931._.js",
+      "static/chunks/124e8_next_dist_compiled_e344ba._.js",
+      "static/chunks/124e8_next_dist_client_b0cb22._.js",
+      "static/chunks/124e8_next_dist_b4e3a6._.js",
+      "static/chunks/90823_@swc_helpers_cjs_6ab2e1._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_36bfcf._.js",
+      "static/chunks/_c4c472._.js",
+      "static/chunks/_73dfc9._.js"
+    ]
+  }
+}

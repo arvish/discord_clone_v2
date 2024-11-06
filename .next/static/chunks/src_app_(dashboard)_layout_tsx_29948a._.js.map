@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file://C%3A/Users/ARVISH/chatstarter/src/app/%28dashboard%29/layout.tsx"],"sourcesContent":["\"use client\";\r\n\r\nimport { SidebarContent, SidebarProvider } from \"@/components/ui/sidebar\";\r\nimport { RedirectToSignIn } from \"@clerk/nextjs\";\r\nimport { Authenticated, Unauthenticated } from \"convex/react\";\r\nimport { Sidebar } from \"lucide-react\";\r\n\r\nexport default function DashboardLayout({\r\n  children,\r\n}: {\r\n  children: React.ReactNode;\r\n}) {\r\n  return (\r\n    <>\r\n      <Authenticated>\r\n        <SidebarProvider>\r\n          <DashboardSidebar />\r\n          {children}\r\n        </SidebarProvider>\r\n      </Authenticated>\r\n      <Unauthenticated>\r\n        <RedirectToSignIn />\r\n      </Unauthenticated>\r\n    </>\r\n  );\r\n}\r\n\r\nfunction DashboardSidebar() {\r\n  return (\r\n    <Sidebar>\r\n      <SidebarContent></SidebarContent>\r\n    </Sidebar>\r\n  );\r\n}\r\n"],"names":[],"mappings":";;;;AAEA;AAEA;AAAA;AADA;AAEA;AALA;;;;;;AAOe,SAAS,gBAAgB,EACtC,QAAQ,EAGT;IACC,qBACE;;0BACE,sZAAC,mXAAA,CAAA,gBAAa;0BACZ,cAAA,sZAAC,sIAAA,CAAA,kBAAe;;sCACd,sZAAC;;;;;wBACA;;;;;;;;;;;;0BAGL,sZAAC,mXAAA,CAAA,kBAAe;0BACd,cAAA,sZAAC,uYAAA,CAAA,mBAAgB;;;;;;;;;;;;AAIzB;KAlBwB;AAoBxB,SAAS;IACP,qBACE,sZAAC,mUAAA,CAAA,UAAO;kBACN,cAAA,sZAAC,sIAAA,CAAA,iBAAc;;;;;;;;;;AAGrB;MANS"}},
+    {"offset": {"line": 80, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}
