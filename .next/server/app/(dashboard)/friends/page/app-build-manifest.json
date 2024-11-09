@@ -2,12 +2,12 @@
   "pages": {
     "/(dashboard)/friends/page": [
       "static/chunks/src_app_globals_b80590.css",
-      "static/chunks/node_modules__pnpm_8d4b46._.js",
+      "static/chunks/node_modules__pnpm_e90738._.js",
       "static/chunks/src_app_8447dd._.js",
       "static/chunks/src_app_layout_tsx_50009d._.js",
       "static/chunks/_886d78._.js",
-      "static/chunks/node_modules__pnpm_a9047c._.js",
-      "static/chunks/src_app_(dashboard)_layout_tsx_b82fd3._.js",
+      "static/chunks/node_modules__pnpm_b9e0fa._.js",
+      "static/chunks/src_app_(dashboard)_layout_tsx_2e3e94._.js",
       "static/chunks/124e8_next_dist_compiled_react-dom_afc931._.js",
       "static/chunks/124e8_next_dist_compiled_e344ba._.js",
       "static/chunks/124e8_next_dist_client_b0cb22._.js",
