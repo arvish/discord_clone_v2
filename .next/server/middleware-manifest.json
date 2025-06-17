@@ -3,13 +3,9 @@
   "middleware": {
     "/": {
       "files": [
-        "server/edge/chunks/_3a2227._.js",
-        "server/edge/chunks/a393b_@clerk_backend_dist_f56f29._.js",
-        "server/edge/chunks/94ce0_@clerk_shared_dist_f6930c._.js",
-        "server/edge/chunks/e96f2_@clerk_nextjs_dist_esm_3d992d._.js",
-        "server/edge/chunks/node_modules__pnpm_42f879._.js",
+        "server/edge/chunks/_1c2a6d._.js",
         "server/edge/chunks/[root of the server]__d7df46._.js",
-        "server/edge/chunks/edge-wrapper_87419f.js"
+        "server/edge/chunks/edge-wrapper_4c332a.js"
       ],
       "name": "middleware",
       "page": "/",
@@ -26,44 +22,12 @@
       "wasm": [],
       "assets": [
         {
-          "name": "server/edge/chunks/_3a2227._.js.map",
-          "filePath": "server/edge/chunks/_3a2227._.js.map"
+          "name": "server/edge/chunks/_1c2a6d._.js.map",
+          "filePath": "server/edge/chunks/_1c2a6d._.js.map"
         },
         {
-          "name": "server/edge/chunks/_3a2227._.js",
-          "filePath": "server/edge/chunks/_3a2227._.js"
-        },
-        {
-          "name": "server/edge/chunks/a393b_@clerk_backend_dist_f56f29._.js.map",
-          "filePath": "server/edge/chunks/a393b_@clerk_backend_dist_f56f29._.js.map"
-        },
-        {
-          "name": "server/edge/chunks/a393b_@clerk_backend_dist_f56f29._.js",
-          "filePath": "server/edge/chunks/a393b_@clerk_backend_dist_f56f29._.js"
-        },
-        {
-          "name": "server/edge/chunks/94ce0_@clerk_shared_dist_f6930c._.js.map",
-          "filePath": "server/edge/chunks/94ce0_@clerk_shared_dist_f6930c._.js.map"
-        },
-        {
-          "name": "server/edge/chunks/94ce0_@clerk_shared_dist_f6930c._.js",
-          "filePath": "server/edge/chunks/94ce0_@clerk_shared_dist_f6930c._.js"
-        },
-        {
-          "name": "server/edge/chunks/e96f2_@clerk_nextjs_dist_esm_3d992d._.js.map",
-          "filePath": "server/edge/chunks/e96f2_@clerk_nextjs_dist_esm_3d992d._.js.map"
-        },
-        {
-          "name": "server/edge/chunks/e96f2_@clerk_nextjs_dist_esm_3d992d._.js",
-          "filePath": "server/edge/chunks/e96f2_@clerk_nextjs_dist_esm_3d992d._.js"
-        },
-        {
-          "name": "server/edge/chunks/node_modules__pnpm_42f879._.js.map",
-          "filePath": "server/edge/chunks/node_modules__pnpm_42f879._.js.map"
-        },
-        {
-          "name": "server/edge/chunks/node_modules__pnpm_42f879._.js",
-          "filePath": "server/edge/chunks/node_modules__pnpm_42f879._.js"
+          "name": "server/edge/chunks/_1c2a6d._.js",
+          "filePath": "server/edge/chunks/_1c2a6d._.js"
         },
         {
           "name": "server/edge/chunks/[root of the server]__d7df46._.js.map",
@@ -74,20 +38,20 @@
           "filePath": "server/edge/chunks/[root of the server]__d7df46._.js"
         },
         {
-          "name": "server/edge/chunks/edge-wrapper_87419f.js.map",
-          "filePath": "server/edge/chunks/edge-wrapper_87419f.js.map"
+          "name": "server/edge/chunks/edge-wrapper_4c332a.js.map",
+          "filePath": "server/edge/chunks/edge-wrapper_4c332a.js.map"
         },
         {
-          "name": "server/edge/chunks/edge-wrapper_87419f.js",
-          "filePath": "server/edge/chunks/edge-wrapper_87419f.js"
+          "name": "server/edge/chunks/edge-wrapper_4c332a.js",
+          "filePath": "server/edge/chunks/edge-wrapper_4c332a.js"
         }
       ],
       "env": {
         "__NEXT_BUILD_ID": "development",
         "NEXT_SERVER_ACTIONS_ENCRYPTION_KEY": "Y5ejrTJU7Zw74YyhK2fOWDYdKLSG13GLa6v9zUCZE9Y=",
-        "__NEXT_PREVIEW_MODE_ID": "238a2cf31ec111d95976fcaddb210484",
-        "__NEXT_PREVIEW_MODE_ENCRYPTION_KEY": "859f020e4d5fb85c8c389a6aef30ff781bd4dc15ecdb1128ed1ff8cd4308a6cb",
-        "__NEXT_PREVIEW_MODE_SIGNING_KEY": "b3a7fc0b39431c43c73efa78f1b7edd11037030639b41f6a64e416600aa8b423"
+        "__NEXT_PREVIEW_MODE_ID": "588d49e9d9fa9d89e28ee09f7b2ae00f",
+        "__NEXT_PREVIEW_MODE_ENCRYPTION_KEY": "d895b13b0d261e6ec88fdb4a3617a51868cce87061d568446ada17f184979cfb",
+        "__NEXT_PREVIEW_MODE_SIGNING_KEY": "b13911100cca1756a0ed4ea86d64577bed7ac99ffa606d3338ab993327d715a3"
       }
     }
   },
